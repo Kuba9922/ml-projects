@@ -1,6 +1,6 @@
 # ml-projects
 
-A few small ML projects I made during classes and in my free time.
+A few small ML projects I built for an ML course and in my free time.
 
 digit-recognition-from-scratch - a neural network written from scratch in NumPy for digit recognition trained on MNIST dataset.
 
