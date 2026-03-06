@@ -8,3 +8,7 @@ __pycache__/
 fruit-recognition-cnn/Training/
 fruit-recognition-cnn/Test/
 melbourne-housing-sklearn/*.csv
+digit-recognition-from-scratch/train-images.idx3-ubyte
+digit-recognition-from-scratch/train-labels.idx1-ubyte
+digit-recognition-from-scratch/t10k-images.idx3-ubyte
+digit-recognition-from-scratch/t10k-labels.idx1-ubyte
