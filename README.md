@@ -4,7 +4,7 @@ A few small ML projects I built for an ML course and in my free time.
 
 digit-recognition-from-scratch - a neural network written from scratch in NumPy for digit recognition trained on MNIST dataset.
 
-fruit-recognition-cnn - CNN-based fruit image classifier built in TensorFlow/Keras. The model classifies 131 fruit classes.
+fruit-recognition-cnn - CNN-based fruit image classifier built in TensorFlow/Keras. The model classifies 131 fruit classes with over 99% accuracy.
 
 melbourne-housing-sklearn - scikit-learn pipeline for house prices prediction on Melbourne Housing dataset.
 
